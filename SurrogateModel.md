@@ -1,4 +1,5 @@
 # Surrogate Model
+- [LHS - Latin Hypercube Sampling]()
 - [Polynomial Regression](https://www.geeksforgeeks.org/machine-learning/python-implementation-of-polynomial-regression/)
 - [Gaussian Processes]()
 - [Artificial Neural Networks]()
