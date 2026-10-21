@@ -1,4 +1,5 @@
 # Surrogate Model
+- [Design of Experiments]()
 - [LHS - Latin Hypercube Sampling]()
 - [Active Learning]()
 - [Polynomial Regression]()
