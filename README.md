@@ -1,7 +1,6 @@
 # README
 
-- Surrogate Models
-  - [Medium.com - 132. What is Surrogate Modeling?](https://medium.com/@ilakk2023/132-what-is-surrogate-modeling-a68cab691cc5)
+- [Surrogate Model](SurrogateModel.md)  
   
 - Eigenvalues and Eigenvectors
   - [YouTube - No One Taught Eigenvalues & EigenVectors Like This](https://www.youtube.com/watch?v=1sDBruay100)
